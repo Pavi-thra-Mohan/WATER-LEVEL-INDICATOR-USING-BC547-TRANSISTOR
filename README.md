@@ -21,7 +21,7 @@ A low-cost, transistor-based water level indicator that monitors four distinct w
 ### Tinkercad Simulation View
 ![Tinkercad Diagram](schematics/tinkercad_diagram.png)
 
-> 🔗 **Interactive Simulation:** [View and simulate this circuit on Tinkercad]([YOUR_TINKERCAD_LINK_HERE](https://www.tinkercad.com/things/7YOiGNxNkxB-water-level-indicator?sharecode=mQjLodyY3vDiRX1qlZtljvBxX3bGb25HVmguMjSJVCY))
+> 🔗 **Interactive Simulation:** [View and simulate this circuit on Tinkercad](https://www.tinkercad.com/things/7YOiGNxNkxB-water-level-indicator?sharecode=mQjLodyY3vDiRX1qlZtljvBxX3bGb25HVmguMjSJVCY)
 
 ---
 
