@@ -16,7 +16,7 @@ A simple, low-cost electronics project designed to monitor and display four wate
 3. **Level 4 (Max Level):** The final probe triggers the fourth transistor, lighting the last LED and sounding the buzzer to signal full capacity and prevent overflow.
 
 ## Repository Contents
-* `MICROPROJECT_REPORT_AC_FINAL.pdf`: Full microproject report submitted by Pavithra Mohan, Pooja A, and Rohit Anush Nair (Department of Electronics & Communication Engineering, Mar Athanasius College of Engineering).
+* `MICROPROJECT_REPORT_AC_FINAL.pdf`: Full microproject report submitted by Pavithra Mohan to Department of Electronics & Communication Engineering, Mar Athanasius College of Engineering.
 
 ## How to Recreate
 1. Assemble the components on a breadboard following the circuit layout in the documentation.
